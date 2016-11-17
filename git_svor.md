@@ -6,3 +6,5 @@ Git spurningar og svör
 	pwd
 	mkdir
 asdasdd
+
+Brynjólfur.J
