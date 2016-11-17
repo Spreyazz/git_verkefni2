@@ -5,3 +5,4 @@ Git spurningar og svör
 	ls
 	pwd
 	mkdir
+asdasdd
